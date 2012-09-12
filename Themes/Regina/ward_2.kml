@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_2">
+      <name>Ward 2</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.618066578,50.436165384,0 -104.618170311,50.397312662,0 -104.638115287,50.397332655,0 -104.641066607,50.398430112,0 -104.644690937,50.398322973,0 -104.648366492,50.397313513,0 -104.659104496,50.39733683,0 -104.660903832,50.397696878,0 -104.663689019,50.39919787,0 -104.663991312,50.399110547,0 -104.663989614,50.425896061,0 -104.686968421,50.425902195,0 -104.686979662,50.434804149,0 -104.629696196,50.434893428,0 -104.629778711,50.435671909,0 -104.63108497,50.436638521,0 -104.631152995,50.439404288,0 -104.629467387,50.439172573,0 -104.628715278,50.438657094,0 -104.627485231,50.435816121,0 -104.626732128,50.435436442,0 -104.623211355,50.435470367,0 -104.620087162,50.436139288,0 -104.618066578,50.436165384,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Jocelyn Hutchinson",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-hutchinson.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-hutchinson/",
+"Phone":"1-306-584-1739"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_2.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FAB</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FAB</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_5">
+      <name>Ward 5</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-82.9726881502,42.3146360827,0 -82.9554971263,42.2875014226,0 -82.9683734544,42.2851181264,0 -82.982250332,42.2834219301,0 -83.0092868939,42.3252614708,0 -83.0094737515,42.3261399503,0 -83.0061449364,42.3264090843,0 -83.0068505375,42.3275217652,0 -82.9981849481,42.327692354,0 -82.9978973531,42.3272436743,0 -82.9974304665,42.3271860031,0 -82.9976500719,42.3275346407,0 -82.9971063446,42.3277072615,0 -82.9883423932,42.3280621599,0 -82.9878843385,42.3281789541,0 -82.9881605342,42.3286121246,0 -82.9866601368,42.3284470591,0 -82.9824816776,42.3292222477,0 -82.9815847388,42.3284814124,0 -82.9726881502,42.3146360827,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Ed Sleiman",
+"Photo":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/PublishingImages/Sleiman.jpg",
+"Email":"esleiman@city.windsor.on.ca",
+"Website":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/Councillor-Ed-Sleiman.aspx"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_5.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FD6DF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FD6DF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

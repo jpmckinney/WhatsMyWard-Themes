@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_9">
+      <name>Ward 9</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.663994041,50.484270131,0 -104.663993215,50.480891258,0 -104.666532524,50.480816497,0 -104.669142248,50.479178716,0 -104.670957783,50.479933465,0 -104.678373855,50.479957873,0 -104.683569265,50.480978901,0 -104.68791395,50.480973839,0 -104.687883394,50.469688413,0 -104.709895607,50.469664265,0 -104.709911342,50.498828408,0 -104.687033286,50.498807053,0 -104.686935992,50.513170649,0 -104.664036959,50.51325512,0 -104.66379822,50.503230116,0 -104.663994041,50.484270131,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Terry Hincks",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-hincks.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councilor-hincks/",
+"Phone":"1-306-949-9690"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_9.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>AEDF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>AEDF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

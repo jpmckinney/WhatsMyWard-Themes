@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="alta_vista">
+      <name>Alta Vista</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.6012115512,45.4116695063,0 -75.5995501618,45.4103918743,0 -75.5988795074,45.4094837575,0 -75.5970689998,45.4052199175,0 -75.5938429164,45.4010615612,0 -75.5928066769,45.3981580318,0 -75.6075802176,45.3929506546,0 -75.6632996032,45.3704181675,0 -75.6686056729,45.3806126482,0 -75.670724509,45.3824188172,0 -75.6736859819,45.3860038,0 -75.677900301,45.3892425369,0 -75.6774773849,45.3895441311,0 -75.6772818619,45.390738711,0 -75.6737612443,45.3950132694,0 -75.6731503345,45.3970750724,0 -75.6709907341,45.3996223913,0 -75.668731986,45.3990430486,0 -75.6660594273,45.3989881758,0 -75.6609772353,45.4087940002,0 -75.6596587341,45.4141565894,0 -75.6584062237,45.4150472452,0 -75.6568787077,45.4153393107,0 -75.6565311085,45.4163523167,0 -75.6566587875,45.4176331631,0 -75.6522612952,45.4189968377,0 -75.6341933671,45.4203690314,0 -75.6327079487,45.4177237071,0 -75.6319472037,45.4176491104,0 -75.6316412905,45.4170707481,0 -75.6153389311,45.4147776285,0 -75.6134365382,45.4113862849,0 -75.6077124099,45.411222748,0 -75.6012115512,45.4116695063,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Peter Hume",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdm4/~edisp/wc020002_123477647.jpg",
+"Email":"Peter.Hume@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/p_hume/index.html",
+"Phone":"1-613-580-2488",
+"Fax":"1-613-580-2528",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>alta_vista.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFB89F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFB89F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

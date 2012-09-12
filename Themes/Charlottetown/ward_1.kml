@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_1">
+      <name>Queens Square</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1167666826,46.23221742,0 -63.1183281346,46.2312567259,0 -63.1193929561,46.2320572457,0 -63.1196195461,46.2319247517,0 -63.1193689337,46.2317423759,0 -63.1265447387,46.2278038275,0 -63.1273461871,46.2290490177,0 -63.1294398266,46.2290412557,0 -63.1299897663,46.2297028077,0 -63.1320948983,46.2296122113,0 -63.1309463986,46.2301992444,0 -63.1315451222,46.2301085834,0 -63.1321787878,46.2305307078,0 -63.1329206701,46.2301330753,0 -63.1344636061,46.2312747803,0 -63.1356775832,46.229912092,0 -63.1365378452,46.2276114284,0 -63.1387755019,46.2271624682,0 -63.143275378,46.2272720494,0 -63.1439115757,46.2276491203,0 -63.1453422298,46.2298974516,0 -63.1350711938,46.234250268,0 -63.1252544949,46.2406790607,0 -63.1150633684,46.2329443142,0 -63.1167666826,46.23221742,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Edward Rice",
+"Photo":"http://www.city.charlottetown.pe.ca/images/edwardrice_003E.jpg"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_1.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>C6DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>C6DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

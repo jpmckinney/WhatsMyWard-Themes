@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="scarborough_agincourt_39">
+      <name>Scarborough—Agincourt (39)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.3314152735,43.7931182898,0 -79.3413212465,43.8156628032,0 -79.3023027868,43.8248096896,0 -79.2929108386,43.8043334385,0 -79.2908844935,43.8013323682,0 -79.2840166337,43.7854865345,0 -79.2818478628,43.7814112664,0 -79.2859532518,43.7834784055,0 -79.2881397123,43.7855134121,0 -79.2912676577,43.7873251645,0 -79.2958970169,43.7865100197,0 -79.3012706973,43.7880292641,0 -79.3059844112,43.7990096606,0 -79.3314152735,43.7931182898,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Mike Del Grande",
+"Email":"councillor_delgrande@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/delgrande1.htm",
+"Phone":"1-416-392-1374"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>scarborough_agincourt_39.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFDE</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFDE</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

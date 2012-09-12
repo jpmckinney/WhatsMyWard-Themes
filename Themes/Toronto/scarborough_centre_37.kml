@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="scarborough_centre_37">
+      <name>Scarborough Centre (37)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.3026473495,43.7247345786,0 -79.3093509427,43.7409300723,0 -79.315248473,43.7578803169,0 -79.2762942923,43.7668266698,0 -79.2797475097,43.7763384595,0 -79.2648556593,43.7795562199,0 -79.2559434476,43.7559242639,0 -79.2553701969,43.7535377038,0 -79.2488497658,43.7378973077,0 -79.2480873066,43.7367074495,0 -79.2994163766,43.7252150663,0 -79.3026473495,43.7247345786,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Michael Thompson",
+"Email":"councillor_thompson@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/thompson1.htm",
+"Phone":"1-416-397-9274"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>scarborough_centre_37.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFA49F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFA49F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

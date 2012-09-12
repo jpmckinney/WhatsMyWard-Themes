@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_3_brighton">
+      <name>Brighton</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1340662706,46.2373743151,0 -63.1326365721,46.2359454689,0 -63.1350711938,46.234250268,0 -63.1449288882,46.2299771527,0 -63.147496078,46.2305730525,0 -63.1493307802,46.2320983492,0 -63.1495986783,46.2328762378,0 -63.1507853525,46.2334927646,0 -63.1512342566,46.2340778733,0 -63.1515527277,46.2362511247,0 -63.1509390993,46.2375322138,0 -63.149820123,46.2417883732,0 -63.1524270164,46.2443175634,0 -63.1480705915,46.2455118211,0 -63.1477061615,46.2450174604,0 -63.1399291008,46.2474033995,0 -63.1378447657,46.2441742254,0 -63.1414223136,46.2431081881,0 -63.136235358,46.2383803008,0 -63.1340662706,46.2373743151,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1449923678,46.2338781719,0 -63.1451606734,46.2337879872,0 -63.1452771428,46.2337068655,0 -63.1449923678,46.2338781719,0</coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Rob Lantz",
+"Photo":"http://www.city.charlottetown.pe.ca/images/RobLantz2011.jpg",
+"Email":"rlantz@charlottetown.ca"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_3_brighton.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFD3</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFD3</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

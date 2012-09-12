@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_3">
+      <name>Ward 3</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-113.528341907,53.6163453384,0 -113.52889386,53.6166958835,0 -113.53128985,53.6169812146,0 -113.541127359,53.6169637719,0 -113.54118526,53.6505462735,0 -113.442818523,53.6505097189,0 -113.442808503,53.6048438751,0 -113.446926285,53.6049618465,0 -113.456467904,53.6069128521,0 -113.470226019,53.606895811,0 -113.477914365,53.6057684661,0 -113.481739698,53.6058118625,0 -113.488501571,53.6067938952,0 -113.491680857,53.6067849676,0 -113.491793302,53.6140325537,0 -113.520625921,53.6141989019,0 -113.523664116,53.6147393921,0 -113.527392806,53.6162945815,0 -113.528341542,53.6165686106,0 -113.528341907,53.6163453384,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Dave Loken",
+"Photo":"http://www.edmonton.ca/city_government/documents/DaveLoken.jpg",
+"Email":"dave.loken@edmonton.ca",
+"Website":"http://www.edmonton.ca/city_government/city_organization/ward-3-dave-loken.aspx",
+"Phone":"1-780-496-8128",
+"Fax":"1-780-496-8113",
+"Address":"2nd Floor, City Hall\n1 Sir Winston Churchill Square\nEdmonton AB  T5J 2R7"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_3.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFC1</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFC1</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

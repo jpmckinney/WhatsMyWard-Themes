@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_6">
+      <name>Ward 6</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-114.186216578,51.0745532104,0 -114.183849879,51.0723896363,0 -114.180959414,51.0703721027,0 -114.177084104,51.0683029547,0 -114.169218231,51.0649238794,0 -114.166780131,51.0630676764,0 -114.165161294,51.0610848509,0 -114.16417014,51.058132536,0 -114.164260932,51.0398985883,0 -114.162352387,51.0397229704,0 -114.158133755,51.0378195941,0 -114.14112257,51.0378039306,0 -114.141277175,51.0086070715,0 -114.234372704,51.0087126506,0 -114.234348054,51.0743066032,0 -114.199935978,51.0743337028,0 -114.199968413,51.0818589875,0 -114.19759354,51.0818787196,0 -114.194370573,51.0816371334,0 -114.189168027,51.0803033882,0 -114.189223504,51.0787753002,0 -114.188916843,51.077983941,0 -114.186216578,51.0745532104,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Richard Pootmans",
+"Photo":"http://www.calgary.ca/Aldermen/PublishingImages/6-pootmans-160.jpg",
+"Website":"http://www.calgary.ca/Aldermen/Pages/Ward-Offices/Ward-6/Ward-6.aspx",
+"Phone":"1-403-268-2430",
+"Fax":"1-403-268-8091",
+"Address":"P.O. Box 2100, Station M\nCalgary AB  T2P 2M5"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_6.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FB0DF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FB0DF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="bay">
+      <name>Bay</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.7840308492,45.3877687875,0 -75.7694589125,45.3803578483,0 -75.7666969721,45.3776855247,0 -75.7637428855,45.3770545931,0 -75.7600303396,45.3778044763,0 -75.7583130811,45.3773074015,0 -75.7545976646,45.3704217203,0 -75.7590240669,45.3662262951,0 -75.7603632026,45.3654336805,0 -75.7943725813,45.3471136849,0 -75.7979840676,45.3461380943,0 -75.8096354638,45.3450748395,0 -75.8164827698,45.3432196391,0 -75.8249583568,45.3426143851,0 -75.8368720259,45.3401813698,0 -75.8859098766,45.3203764272,0 -75.9044926842,45.3515997405,0 -75.9455803905,45.3839695333,0 -75.9037430967,45.410893572,0 -75.8698223287,45.3879470526,0 -75.8544786835,45.3793589857,0 -75.8492895669,45.3769429152,0 -75.8439587387,45.3752721559,0 -75.8371979101,45.3740889641,0 -75.818595509,45.372849126,0 -75.8144088726,45.3734536985,0 -75.8076791685,45.3749220757,0 -75.7973791807,45.3777790117,0 -75.794872612,45.3790520606,0 -75.7840308492,45.3877687875,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Mark Taylor",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdyx/~edisp/wc019984_123477653.jpg",
+"Email":"Mark.Taylor@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/m_taylor/index.html",
+"Personal Website":"http://www.BayWardLive.ca",
+"Phone":"1-613-580-2477",
+"Fax":"1-613-580-2517",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>bay.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFDB9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFDB9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

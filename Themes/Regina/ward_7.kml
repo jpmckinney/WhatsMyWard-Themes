@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_7">
+      <name>Ward 7</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.59456207,50.48271919,0 -104.59514627,50.481094395,0 -104.595192905,50.469525284,0 -104.641766105,50.46954037,0 -104.641464686,50.470933066,0 -104.65248193,50.470960828,0 -104.652526288,50.476535933,0 -104.654792644,50.475890229,0 -104.655913636,50.47492628,0 -104.657048459,50.474568359,0 -104.659659407,50.474634292,0 -104.66206309,50.47559691,0 -104.663967471,50.475193507,0 -104.663994041,50.484270131,0 -104.641570638,50.484177405,0 -104.618352003,50.486533945,0 -104.608882487,50.486608425,0 -104.601130603,50.486133394,0 -104.598782677,50.485371981,0 -104.59456207,50.48271919,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Sharron Bryce",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-bryce.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-bryce/",
+"Phone":"1-306-949-5025"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_7.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFB69F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFB69F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

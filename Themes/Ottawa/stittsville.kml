@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="stittsville">
+      <name>Stittsville</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.9172486513,45.2977328644,0 -75.9126364991,45.296595853,0 -75.909959751,45.2952183376,0 -75.9068810507,45.2941121215,0 -75.9001143411,45.2906991292,0 -75.8935791974,45.2886791146,0 -75.8893954009,45.2868765006,0 -75.886594501,45.2850078463,0 -75.8850703515,45.2844728422,0 -75.8764205509,45.2773974475,0 -75.8714893031,45.275944882,0 -75.8691019291,45.2743928441,0 -75.902635866,45.2536687797,0 -75.9020282776,45.2531739147,0 -75.9024690657,45.2529054604,0 -75.8992387411,45.2502506678,0 -75.9109917676,45.2431553598,0 -75.9126417056,45.2445540156,0 -75.9126498806,45.2402686002,0 -75.9133106147,45.2396801733,0 -75.9113773484,45.238108452,0 -75.911418605,45.2374110752,0 -75.9132605031,45.2364931207,0 -75.9199333587,45.2419264633,0 -75.9207564283,45.2424759086,0 -75.9214331838,45.2422971267,0 -75.9341108236,45.2525163767,0 -75.9455275447,45.2618213396,0 -75.9448825693,45.2622652971,0 -75.9525181532,45.2684256679,0 -75.9334347138,45.2806260247,0 -75.9441702342,45.2893265377,0 -75.9295905243,45.2984909462,0 -75.9224905375,45.3013945862,0 -75.920646454,45.2995483367,0 -75.9183921548,45.2988880016,0 -75.9172486513,45.2977328644,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Shad Qadri",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdu1/~edisp/wc020033_123477631.jpg",
+"Email":"Shad.Qadri@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/s_qadri/index.html",
+"Phone":"1-613-580-2476",
+"Fax":"1-613-580-2516",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>stittsville.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FD1DF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FD1DF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

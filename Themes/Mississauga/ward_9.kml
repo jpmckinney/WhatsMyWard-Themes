@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_9">
+      <name>9</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.8103290368,43.5882260836,0 -79.8032683358,43.5945495477,0 -79.7996121839,43.5971309075,0 -79.7947572777,43.5991644702,0 -79.7913181019,43.5999632127,0 -79.7879264035,43.6003378361,0 -79.7899297712,43.6018092593,0 -79.7780618324,43.6094285806,0 -79.7610277436,43.6145548947,0 -79.7597104556,43.6157716157,0 -79.7415156196,43.6022472507,0 -79.7396403596,43.6002375807,0 -79.7389650608,43.5984339253,0 -79.7389067813,43.5964827308,0 -79.7423366978,43.5871251413,0 -79.7423237231,43.5858144334,0 -79.7417194691,43.5847673938,0 -79.7307953571,43.5766662336,0 -79.7279589232,43.5735877753,0 -79.7232849422,43.5701874174,0 -79.7196907634,43.5683820774,0 -79.7067312539,43.55883997,0 -79.7175461554,43.5491068886,0 -79.7442296318,43.5686760876,0 -79.749309501,43.5643407649,0 -79.7871692491,43.591665474,0 -79.8009033739,43.5792614876,0 -79.808322978,43.5847850591,0 -79.8097349393,43.5865284425,0 -79.8103290368,43.5882260836,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Pat Saito",
+"Photo":"http://www.mississauga.ca/file/COM/newpatsaito_2012.jpg",
+"Email":"pat.saito@mississauga.ca",
+"Website":"http://www.mississauga.ca/portal/cityhall/ward9"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_9.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>D3DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>D3DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

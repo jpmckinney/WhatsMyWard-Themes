@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="transcona">
+      <name>Transcona</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-97.0247611514,49.9304372993,0 -97.0249768978,49.9159178232,0 -96.9663866983,49.9155556065,0 -96.9567466638,49.8974818814,0 -96.956529423,49.8858126082,0 -96.9810780501,49.885956927,0 -96.9810701267,49.8709337442,0 -97.0268105207,49.8709390327,0 -97.0269779449,49.8783946159,0 -97.029987469,49.8783990482,0 -97.030001544,49.8850005589,0 -97.0309743668,49.8850002638,0 -97.0309838959,49.8860003992,0 -97.0337217839,49.8858976419,0 -97.0341418153,49.8875974204,0 -97.0711653553,49.8941736248,0 -97.0680205751,49.9002673284,0 -97.0632254139,49.9059550548,0 -97.0590612906,49.9077683498,0 -97.0582062758,49.9084749359,0 -97.052710837,49.9157634268,0 -97.0504980777,49.9171357133,0 -97.0489169573,49.9188334627,0 -97.0480772417,49.9207388869,0 -97.0478904618,49.9252541349,0 -97.0475456597,49.9268599004,0 -97.0465372795,49.9287516824,0 -97.0445891127,49.9308713044,0 -97.0247611514,49.9304372993,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Russ Wyatt",
+"Photo":"http://winnipeg.ca/council/images/wyatt.png",
+"Email":"rwyatt@winnipeg.ca",
+"Website":"http://winnipeg.ca/council/transcona.stm",
+"Phone":"1-204-986-8087",
+"Fax":"1-204-949-4530",
+"Address":"Council Building\n510 Main Street\nWinnipeg MB  R3B 1B9"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>transcona.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>B4DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>B4DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

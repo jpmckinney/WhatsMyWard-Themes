@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="davenport_17">
+      <name>Davenport (17)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.4703880686,43.6792960572,0 -79.4660125263,43.6802123577,0 -79.4676780151,43.6819060236,0 -79.461301551,43.6832494487,0 -79.4630123737,43.6892031155,0 -79.4646232597,43.6921663558,0 -79.4630558114,43.6928536211,0 -79.4502815169,43.6957030114,0 -79.4461203383,43.6855770784,0 -79.438696912,43.6871444677,0 -79.4382615756,43.6863734028,0 -79.4346427213,43.6871089535,0 -79.4332625663,43.683302911,0 -79.4338191721,43.6830352971,0 -79.4302294695,43.6747457521,0 -79.4309867719,43.674733183,0 -79.4293995596,43.6709831254,0 -79.4483563246,43.6673377352,0 -79.460049403,43.6672366942,0 -79.4687108903,43.6761514711,0 -79.4724227999,43.6792297136,0 -79.470569208,43.679501314,0 -79.4703880686,43.6792960572,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Cesar Palacio",
+"Email":"councillor_palacio@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/palacio1.htm",
+"Phone":"1-416-392-7011"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>davenport_17.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FB0</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FB0</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

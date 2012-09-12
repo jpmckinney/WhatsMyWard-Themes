@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_8">
+      <name>Ward 8</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-82.9554971263,42.2875014226,0 -82.968036131,42.3073881903,0 -82.9765136192,42.3206112481,0 -82.9770842991,42.3214929754,0 -82.9772511945,42.3217527689,0 -82.9244440164,42.3163766826,0 -82.9247098461,42.3158117432,0 -82.9262540295,42.3153895382,0 -82.9272562844,42.314503403,0 -82.927049716,42.3135236721,0 -82.9261239495,42.3122484279,0 -82.9262058976,42.3114728114,0 -82.9273747638,42.3101207963,0 -82.9294111081,42.3094815764,0 -82.930094359,42.3081771122,0 -82.9289103514,42.3075161897,0 -82.9274481791,42.3053253887,0 -82.9271428639,42.3040713327,0 -82.925749048,42.3032914771,0 -82.926075725,42.3026366406,0 -82.9257200059,42.3021058234,0 -82.9257958044,42.3012289718,0 -82.9245326192,42.2992101497,0 -82.9233508827,42.2958410809,0 -82.9225915241,42.2953471064,0 -82.9222694603,42.2944158413,0 -82.9331254632,42.2915876704,0 -82.9554971263,42.2875014226,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Biagio (Bill) Marra",
+"Photo":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/PublishingImages/Marra.jpg",
+"Email":"bmarra@city.windsor.on.ca",
+"Website":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/Councillor-Bill-Marra.aspx"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_8.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFB1</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFB1</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

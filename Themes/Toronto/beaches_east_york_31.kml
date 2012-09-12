@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="beaches_east_york_31">
+      <name>Beaches—East York (31)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.3236415852,43.6833765558,0 -79.3295587246,43.6979495312,0 -79.3295986542,43.6982814508,0 -79.3271018755,43.7015156218,0 -79.3313053025,43.7016682017,0 -79.3318207609,43.7019966371,0 -79.3319879555,43.7028086314,0 -79.33248719,43.7032855005,0 -79.3309076276,43.7082049084,0 -79.3293898412,43.7095830405,0 -79.3198990726,43.7116704045,0 -79.3192949159,43.7127001064,0 -79.3195036101,43.7156438423,0 -79.3119909405,43.7172835799,0 -79.3111965666,43.7154640173,0 -79.3048141644,43.7168620977,0 -79.3053406576,43.7151122302,0 -79.2991633422,43.7163843269,0 -79.2883606441,43.6912429354,0 -79.3236415852,43.6833765558,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Janet Davis",
+"Email":"councillor_davis@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/davis1.htm",
+"Phone":"1-416-397-4870"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>beaches_east_york_31.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FD2</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FD2</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

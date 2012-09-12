@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="davenport_18">
+      <name>Davenport (18)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.460049403,43.6672366942,0 -79.4483563246,43.6673377352,0 -79.4330119677,43.6702839894,0 -79.4213432988,43.6406189985,0 -79.4239892695,43.6409143685,0 -79.426950098,43.641715475,0 -79.4412680979,43.6486879835,0 -79.4440519471,43.6509261801,0 -79.460049403,43.6672366942,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Ana Bailão",
+"Email":"councillor_bailao@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/bailao1.htm",
+"Phone":"1-416-392-7012"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>davenport_18.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>B99FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>B99FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="york_south_weston_12">
+      <name>York South—Weston (12)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.5205042974,43.7165419892,0 -79.5047306212,43.7183460614,0 -79.4977950119,43.7199787113,0 -79.4922164839,43.7203380744,0 -79.4726060128,43.7250613324,0 -79.468198319,43.7034773359,0 -79.4654125064,43.6937219927,0 -79.4630677213,43.689351656,0 -79.461301551,43.6832494487,0 -79.4676780151,43.6819060236,0 -79.4660125263,43.6802123577,0 -79.4704807222,43.6792787335,0 -79.470569208,43.679501314,0 -79.4724227999,43.6792297136,0 -79.4779610265,43.6828749371,0 -79.5016648445,43.6946444543,0 -79.5060784298,43.7114314872,0 -79.5121091596,43.7124832799,0 -79.5170566375,43.7140012363,0 -79.5191801253,43.7150207415,0 -79.5205042974,43.7165419892,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Frank Di Giorgio",
+"Email":"councillor_digiorgio@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/digiorgio1.htm",
+"Phone":"1-416-395-6437"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>york_south_weston_12.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FA0DF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FA0DF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

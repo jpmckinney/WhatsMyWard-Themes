@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_13">
+      <name>Ward 13</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-114.110352437,50.9505178164,0 -114.070981056,50.9504739686,0 -114.070337671,50.9449030225,0 -114.06820668,50.9334399392,0 -114.068680757,50.9311591185,0 -114.071316819,50.9252269707,0 -114.071814216,50.9227908368,0 -114.071649231,50.9212384124,0 -114.070004244,50.9176543409,0 -114.05410193,50.892600016,0 -114.093979648,50.8921605494,0 -114.094100336,50.888491292,0 -114.094451764,50.8911876134,0 -114.09528105,50.8913888291,0 -114.112574362,50.8913793642,0 -114.116127357,50.889336339,0 -114.114192109,50.8848702061,0 -114.123041987,50.88486666,0 -114.123038692,50.8884155056,0 -114.140519707,50.8883942392,0 -114.140689494,50.8919428707,0 -114.20981873,50.8919672096,0 -114.209768581,50.9214563544,0 -114.141266154,50.9214260677,0 -114.141280649,50.9504656333,0 -114.110352437,50.9505178164,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Diane Colley-Urquhart",
+"Photo":"http://www.calgary.ca/Aldermen/PublishingImages/13-colley-urquhart-160.jpg",
+"Website":"http://www.calgary.ca/Aldermen/Pages/Ward-Offices/Ward-13/Ward-13.aspx",
+"Phone":"1-403-268-1624",
+"Fax":"1-403-268-8091",
+"Address":"P.O. Box 2100, Station M\nCalgary AB  T2P 2M5"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_13.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FB3</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FB3</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_4_st__avard_s">
+      <name>St. Avards</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1261737286,46.2400743464,0 -63.1326365721,46.2359454689,0 -63.133884464,46.2372575683,0 -63.136235358,46.2383803008,0 -63.1414223136,46.2431081881,0 -63.1225484734,46.2488359811,0 -63.1252544949,46.2406790607,0 -63.1261737286,46.2400743464,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1307440531,46.239387212,0 -63.1307115258,46.2393404651,0 -63.1311409196,46.2399697604,0 -63.1307440531,46.239387212,0</coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Mitchell G. Tweel",
+"Photo":"http://www.city.charlottetown.pe.ca/images/Mitchell2011.jpg",
+"Email":"mitchell.tweel@pei.sympatico.ca"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_4_st__avard_s.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFC19F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFC19F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_4">
+      <name>4</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.6691958714,43.5922851488,0 -79.6359338178,43.6219840634,0 -79.6286056298,43.6156344686,0 -79.6198558758,43.6091837471,0 -79.6182903086,43.6074312318,0 -79.6000674235,43.5945993376,0 -79.6030338969,43.5919581031,0 -79.6147276112,43.5892054253,0 -79.6170058758,43.5884164886,0 -79.6189816941,43.5872752309,0 -79.6223276562,43.584508489,0 -79.6350683861,43.5936588516,0 -79.6515811659,43.5794107143,0 -79.6691958714,43.5922851488,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Frank Dale",
+"Photo":"http://www.mississauga.ca/file/COM/FrankDale_107x90px.jpg",
+"Email":"frank.dale@mississauga.ca",
+"Website":"http://www.mississauga.ca/portal/cityhall/ward4"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_4.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFC99F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFC99F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

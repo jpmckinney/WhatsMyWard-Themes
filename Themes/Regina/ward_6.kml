@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_6">
+      <name>Ward 6</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.537089474,50.498915941,0 -104.536975712,50.483899067,0 -104.52652795,50.483856574,0 -104.526221457,50.467623661,0 -104.57197986,50.45979756,0 -104.572260537,50.447169423,0 -104.563547332,50.447116357,0 -104.563393772,50.444934765,0 -104.561942781,50.440675013,0 -104.562566679,50.438338303,0 -104.563510634,50.437155844,0 -104.574306009,50.442515423,0 -104.57528875,50.441515529,0 -104.576716542,50.440878075,0 -104.595193876,50.440809219,0 -104.595181569,50.447146879,0 -104.592280208,50.447175294,0 -104.592279666,50.450377238,0 -104.591893672,50.450376519,0 -104.595183285,50.451925031,0 -104.595193433,50.455677462,0 -104.618095432,50.45159483,0 -104.618094756,50.450995407,0 -104.630312796,50.448901845,0 -104.64291829,50.44746372,0 -104.642731355,50.449655206,0 -104.643397988,50.453956815,0 -104.643524897,50.466289654,0 -104.641766105,50.46954037,0 -104.595192905,50.469525284,0 -104.59514627,50.481094395,0 -104.593814553,50.484307191,0 -104.595189684,50.484317569,0 -104.594972183,50.498924506,0 -104.537089474,50.498915941,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Wade Murray",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-murray.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-murray/",
+"Phone":"1-306-596-1035"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_6.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFC9</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFC9</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

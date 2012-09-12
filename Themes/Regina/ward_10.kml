@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_10">
+      <name>Ward 10</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.594972183,50.498924506,0 -104.595189684,50.484317569,0 -104.593814553,50.484307191,0 -104.59456207,50.48271919,0 -104.598782677,50.485371981,0 -104.601130603,50.486133394,0 -104.608882487,50.486608425,0 -104.618352003,50.486533945,0 -104.641570638,50.484177405,0 -104.663994041,50.484270131,0 -104.66379822,50.503230116,0 -104.664036959,50.51325512,0 -104.645557231,50.513146439,0 -104.644264505,50.512556568,0 -104.641581324,50.509165094,0 -104.641579113,50.506094957,0 -104.640573429,50.506092023,0 -104.640452664,50.507771424,0 -104.63761548,50.508453941,0 -104.634952302,50.50801448,0 -104.623225902,50.501557284,0 -104.620768378,50.498894665,0 -104.61487172,50.499015721,0 -104.616432765,50.500552317,0 -104.617312165,50.502151247,0 -104.617426444,50.50616957,0 -104.595254948,50.50617653,0 -104.594972183,50.498924506,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Chris Szarka",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-szarka.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-_szarka/",
+"Phone":"1-306-551-2766"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_10.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FC0</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FC0</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

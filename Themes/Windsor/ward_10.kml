@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_10">
+      <name>Ward 10</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-83.0149732546,42.2745225468,0 -83.0169102874,42.2737337164,0 -83.0212151087,42.2709776305,0 -83.0309805497,42.2655650943,0 -83.041892131,42.2619326264,0 -83.0596344824,42.2901007005,0 -83.0558983827,42.2914370543,0 -83.0469903594,42.2960881259,0 -83.0413430214,42.2981681534,0 -83.0404963929,42.2982136612,0 -83.0396874183,42.2980357172,0 -83.0387498024,42.2973234486,0 -83.0368885121,42.2943973386,0 -83.0359674766,42.2943858163,0 -83.0341779299,42.2918651133,0 -83.0326124319,42.2908590277,0 -83.0307806489,42.2903125291,0 -83.0274461957,42.2900994145,0 -83.0180888384,42.2907385078,0 -82.9865948173,42.2901470581,0 -82.982250332,42.2834219301,0 -82.9990040802,42.2802105697,0 -83.0084262895,42.2771143102,0 -83.0160282717,42.2761455894,0 -83.0149732546,42.2745225468,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Al Maghnieh",
+"Photo":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/PublishingImages/Maghnieh.jpg",
+"Email":"amaghnieh@city.windsor.on.ca",
+"Website":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/Councillor-Al-Maghnieh.aspx"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_10.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FB3DF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FB3DF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

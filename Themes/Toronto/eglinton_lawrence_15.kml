@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="eglinton_lawrence_15">
+      <name>Eglinton—Lawrence (15)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.4726060128,43.7250613324,0 -79.4572439496,43.7284399874,0 -79.4538067552,43.7295206862,0 -79.4499800237,43.7299971791,0 -79.4438151822,43.7313267713,0 -79.4366282892,43.7346779478,0 -79.4337602464,43.7363680376,0 -79.4271557557,43.7082972856,0 -79.4396902472,43.7056203791,0 -79.438836477,43.7020545502,0 -79.4406881994,43.7016244202,0 -79.4346427213,43.6871089535,0 -79.4382615756,43.6863734028,0 -79.438696912,43.6871444677,0 -79.4461203383,43.6855770784,0 -79.4502815169,43.6957030114,0 -79.4630558114,43.6928536211,0 -79.4646232597,43.6921663558,0 -79.4654806125,43.693930491,0 -79.4685595649,43.70488814,0 -79.4726060128,43.7250613324,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Josh Colle",
+"Email":"councillor_colle@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/colle1.htm",
+"Phone":"1-416-392-4027"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>eglinton_lawrence_15.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFB7</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFB7</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

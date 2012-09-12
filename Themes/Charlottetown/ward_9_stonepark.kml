@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_9_stonepark">
+      <name>Stonepark</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1033748393,46.2771523092,0 -63.1138931628,46.268720204,0 -63.1130234407,46.2665860898,0 -63.1116178795,46.2650121074,0 -63.1135400616,46.259231447,0 -63.1188613038,46.2600816241,0 -63.1194166478,46.2583797137,0 -63.1373615893,46.2846854995,0 -63.1397258614,46.2922499631,0 -63.1317386369,46.2932995382,0 -63.1299298956,46.2897028356,0 -63.1284575923,46.2900104037,0 -63.1273814866,46.2943787353,0 -63.1322736408,46.3046764604,0 -63.1247354299,46.3065122514,0 -63.1242603616,46.3054052474,0 -63.1225669817,46.3040080588,0 -63.1136497561,46.3058005073,0 -63.111922463,46.30229611,0 -63.1076509989,46.303282697,0 -63.1069184616,46.3017584055,0 -63.1046477396,46.302261646,0 -63.1039421164,46.3005042895,0 -63.1014481749,46.3010220651,0 -63.097141735,46.2918723269,0 -63.0952526345,46.2922167077,0 -63.0923822752,46.2863962456,0 -63.1033748393,46.2771523092,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Melissa Hilton",
+"Photo":"http://www.city.charlottetown.pe.ca/images/MelissaHilton2011.jpg",
+"Email":"mhilton@charlottetown.ca"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_9_stonepark.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DBDF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DBDF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

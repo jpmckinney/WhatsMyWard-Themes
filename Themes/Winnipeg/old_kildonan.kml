@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="old_kildonan">
+      <name>Old Kildonan</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-97.1451271339,49.9357618007,0 -97.1951749707,49.9518030636,0 -97.1951331702,49.9607277813,0 -97.206778845,49.9607405415,0 -97.2067743952,49.9459098719,0 -97.2299925689,49.9458428284,0 -97.229998642,49.9756342576,0 -97.1612280832,49.9755941586,0 -97.1612252498,49.9903051504,0 -97.1551879152,49.9902981571,0 -97.155196815,49.9939334261,0 -97.1491572888,49.9940079784,0 -97.0730169744,49.9598909852,0 -97.0818889132,49.9528595991,0 -97.0841814393,49.9516333094,0 -97.0866999638,49.9509277434,0 -97.0946712039,49.9514494111,0 -97.0966797132,49.9510687605,0 -97.0972551661,49.9506201903,0 -97.1024896755,49.9522566005,0 -97.1063799105,49.9496334015,0 -97.1171373123,49.9531127961,0 -97.1451271339,49.9357618007,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Devi Sharma",
+"Photo":"http://winnipeg.ca/council/images/sharma.png",
+"Email":"devi@winnipeg.ca",
+"Website":"http://winnipeg.ca/council/old_kildonan.stm",
+"Phone":"1-204-986-5264",
+"Fax":"1-204-986-7806",
+"Address":"Council Building\n510 Main Street\nWinnipeg MB  R3B 1B9"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>old_kildonan.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFC3</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFC3</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

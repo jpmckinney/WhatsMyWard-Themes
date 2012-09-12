@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="somerset">
+      <name>Somerset</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.680510188,45.4185939801,0 -75.6805011702,45.417743153,0 -75.6832902115,45.4135507419,0 -75.6833808533,45.412332316,0 -75.6985990731,45.4059326612,0 -75.7057864094,45.4039836483,0 -75.7031109482,45.3996160505,0 -75.7092387705,45.3968585179,0 -75.7122139883,45.4018070812,0 -75.7138494128,45.4036271149,0 -75.7200863974,45.4080522879,0 -75.7244476513,45.4105026669,0 -75.728685267,45.4169321845,0 -75.7234101419,45.4168335629,0 -75.7224767157,45.4171841947,0 -75.7218780767,45.4177453445,0 -75.7220138104,45.42015589,0 -75.7217532107,45.4206895938,0 -75.7211160061,45.4209827332,0 -75.7163382063,45.4215450202,0 -75.710110689,45.423138277,0 -75.7059653574,45.4237342516,0 -75.7046468119,45.4244390411,0 -75.7040859444,45.425297845,0 -75.7037515771,45.428062114,0 -75.6989552134,45.4268981326,0 -75.6948096711,45.4246328303,0 -75.690591262,45.4231492771,0 -75.6808077674,45.4190044973,0 -75.680510188,45.4185939801,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Diane Holmes",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdqx/~edisp/wc020028_123477717.jpg",
+"Email":"Diane.Holmes@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/d_holmes/index.html",
+"Phone":"1-613-580-2484",
+"Fax":"1-613-580-2524",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>somerset.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DE9FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DE9FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

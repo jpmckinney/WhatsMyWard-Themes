@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="parkdale_high_park_14">
+      <name>Parkdale—High Park (14)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.4212912668,43.6401890052,0 -79.4194025937,43.6355054029,0 -79.4287609863,43.6330442866,0 -79.4277658509,43.6297687814,0 -79.4318350724,43.6304371915,0 -79.4350626786,43.6313662178,0 -79.4391655776,43.6330967525,0 -79.439978583,43.6342043499,0 -79.4411108355,43.6348215282,0 -79.4432786541,43.6347370842,0 -79.4476882365,43.6364943733,0 -79.4491110774,43.6361979503,0 -79.4497595864,43.6365177721,0 -79.4527623268,43.6368135772,0 -79.4522540267,43.6378344293,0 -79.453530015,43.6383780611,0 -79.4578070757,43.6486397137,0 -79.4585117951,43.6511479836,0 -79.4653673123,43.6673075153,0 -79.460049403,43.6672366942,0 -79.4440519471,43.6509261801,0 -79.4407063395,43.6483231509,0 -79.4271950537,43.641816543,0 -79.4243873361,43.6409956471,0 -79.4214606692,43.6406208984,0 -79.4212912668,43.6401890052,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Gord Perks",
+"Email":"councillor_perks@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/perks1.htm",
+"Phone":"1-416-392-7919"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>parkdale_high_park_14.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>A5DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>A5DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

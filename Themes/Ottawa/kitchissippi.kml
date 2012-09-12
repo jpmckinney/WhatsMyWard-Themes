@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="kitchissippi">
+      <name>Kitchissippi</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.728685267,45.4169321845,0 -75.7244476513,45.4105026669,0 -75.7200863974,45.4080522879,0 -75.7138494128,45.4036271149,0 -75.7122139883,45.4018070812,0 -75.7092387705,45.3968585179,0 -75.7403980705,45.3834268304,0 -75.7545976646,45.3704217203,0 -75.7583130811,45.3773074015,0 -75.7600303396,45.3778044763,0 -75.7637428855,45.3770545931,0 -75.7666969721,45.3776855247,0 -75.7694589125,45.3803578483,0 -75.7840308492,45.3877687875,0 -75.7684432956,45.4002700488,0 -75.763707859,45.4050643877,0 -75.7599526853,45.4095511189,0 -75.7579619058,45.4106395887,0 -75.754816734,45.4118743843,0 -75.7433232458,45.4147187577,0 -75.7385253023,45.4156378008,0 -75.7339662858,45.4159793635,0 -75.7311836295,45.4169361201,0 -75.728685267,45.4169321845,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Katherine Hobbs",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdu5/~edisp/con017738_123477661.jpg",
+"Email":"Katherine.Hobbs@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/k_hobbs/index.html",
+"Personal Website":"http://www.ourkitchissippi.ca",
+"Phone":"1-613-580-2485",
+"Fax":"1-613-580-2525",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>kitchissippi.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>CEDF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>CEDF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

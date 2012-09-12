@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_5">
+      <name>Ward 5</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-113.911734206,51.1106364596,0 -113.911745836,51.0667042995,0 -114.026816262,51.0669063887,0 -114.026290431,51.0715708052,0 -114.027067422,51.0745005197,0 -114.028803083,51.0769173261,0 -114.037131044,51.0849265918,0 -114.0385413,51.0881211131,0 -114.039725967,51.0941005407,0 -114.040620668,51.096095989,0 -114.029432889,51.0959172514,0 -114.027456116,51.0951576346,0 -114.025389613,51.0935323375,0 -114.023025074,51.092857185,0 -113.999384868,51.0927232706,0 -113.989225273,51.0954978055,0 -113.986027508,51.0959051281,0 -113.981539061,51.0959454355,0 -113.981513579,51.1020464934,0 -113.980960756,51.1044579212,0 -113.979427983,51.1066740068,0 -113.975042232,51.1105363513,0 -113.911734206,51.1106364596,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Ray Jones",
+"Photo":"http://www.calgary.ca/Aldermen/PublishingImages/5-jones-160.jpg",
+"Website":"http://www.calgary.ca/Aldermen/Pages/Ward-Offices/Ward-5/Ward-5.aspx",
+"Phone":"1-403-268-2430",
+"Fax":"1-403-268-3823",
+"Address":"P.O. Box 2100, Station M\nCalgary AB  T2P 2M5"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_5.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFA19F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFA19F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

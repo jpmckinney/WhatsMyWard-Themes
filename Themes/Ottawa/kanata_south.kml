@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="kanata_south">
+      <name>Kanata South</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.8748614864,45.3005557075,0 -75.8727955777,45.2968162142,0 -75.8552227204,45.3039637372,0 -75.854667038,45.3036622097,0 -75.853964708,45.3024992148,0 -75.8539132011,45.3011454668,0 -75.8518767548,45.2998660265,0 -75.8512610621,45.2979872605,0 -75.8505936151,45.2982008597,0 -75.8445258668,45.2913795377,0 -75.8437000478,45.2916452303,0 -75.8353194435,45.2774022924,0 -75.8519550933,45.2707672472,0 -75.8598508705,45.2694379106,0 -75.8622030109,45.2696497673,0 -75.8644150845,45.2707004213,0 -75.870474235,45.2754250405,0 -75.8764205509,45.2773974475,0 -75.8850703515,45.2844728422,0 -75.886594501,45.2850078463,0 -75.8893954009,45.2868765006,0 -75.8935791974,45.2886791146,0 -75.9001143411,45.2906991292,0 -75.9068810507,45.2941121215,0 -75.909959751,45.2952183376,0 -75.9126364991,45.296595853,0 -75.917707149,45.2979238047,0 -75.9183921548,45.2988880016,0 -75.920646454,45.2995483367,0 -75.9224905375,45.3013945862,0 -75.9137511453,45.3046325004,0 -75.9097281914,45.3066420537,0 -75.8888800981,45.3190817109,0 -75.8859098766,45.3203764272,0 -75.8748614864,45.3005557075,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Allan Hubley",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdy2/~edisp/wc020006_123477725.jpg",
+"Email":"Allan.Hubley@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/a_hubley/index.html",
+"Personal Website":"http://councillorallanhubley.ca/",
+"Phone":"1-613-580-2752",
+"Fax":"1-613-580-2762",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>kanata_south.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFCB</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFCB</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="trinity_spadina_20">
+      <name>Trinity—Spadina (20)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.4079201704,43.6329697853,0 -79.4084464614,43.634350008,0 -79.4087474559,43.6344523878,0 -79.4076184487,43.6352813648,0 -79.4023759273,43.6358419318,0 -79.3996512094,43.6364939967,0 -79.4112161656,43.6651259896,0 -79.41841895,43.6635954633,0 -79.4218562451,43.672429021,0 -79.4021340586,43.6765340942,0 -79.397934077,43.678005284,0 -79.3931538196,43.6663829522,0 -79.3939005314,43.6650230349,0 -79.3931089823,43.6627755019,0 -79.3920518343,43.6611324021,0 -79.3906785227,43.6602679291,0 -79.3862935756,43.6500972011,0 -79.3834289408,43.6450934953,0 -79.3824733466,43.6453023348,0 -79.3776684611,43.6338997676,0 -79.3952069716,43.6341752804,0 -79.3978555148,43.6326871019,0 -79.3968480889,43.6339319233,0 -79.3973656813,43.6336743038,0 -79.3976165649,43.6338608451,0 -79.3975724105,43.6335407743,0 -79.4023212475,43.6310052488,0 -79.405062959,43.6330789716,0 -79.4066442162,43.632813698,0 -79.4079201704,43.6329697853,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Adam Vaughan",
+"Email":"councillor_vaughan@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/vaughan1.htm",
+"Phone":"1-416-392-4044"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>trinity_spadina_20.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>C19FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>C19FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

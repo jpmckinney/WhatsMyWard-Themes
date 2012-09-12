@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="scarborough_agincourt_40">
+      <name>Scarborough—Agincourt (40)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.315248473,43.7578803169,0 -79.3200682861,43.7689889902,0 -79.3314152735,43.7931182898,0 -79.3059844112,43.7990096606,0 -79.3012706973,43.7880292641,0 -79.2958970169,43.7865100197,0 -79.2912676577,43.7873251645,0 -79.2881397123,43.7855134121,0 -79.2859532518,43.7834784055,0 -79.2818478628,43.7814112664,0 -79.2762942923,43.7668266698,0 -79.315248473,43.7578803169,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Norm Kelly",
+"Email":"councillor_kelly@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/kelly1.htm",
+"Phone":"1-416-392-4047"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>scarborough_agincourt_40.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFA2</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFA2</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

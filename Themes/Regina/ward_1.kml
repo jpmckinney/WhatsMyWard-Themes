@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_1">
+      <name>Ward 1</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.563510634,50.437155844,0 -104.572655734,50.42767357,0 -104.575663702,50.423214852,0 -104.573409953,50.422122141,0 -104.574223901,50.420933182,0 -104.575318234,50.420258437,0 -104.575302981,50.419066441,0 -104.572489667,50.417847642,0 -104.572786283,50.416557463,0 -104.572432355,50.415579433,0 -104.572570121,50.41142737,0 -104.572286998,50.411427094,0 -104.572311019,50.396786557,0 -104.599235682,50.396780981,0 -104.606540359,50.396412423,0 -104.606541528,50.39731485,0 -104.618170311,50.397312662,0 -104.618090371,50.44076989,0 -104.576716542,50.440878075,0 -104.57528875,50.441515529,0 -104.574306009,50.442515423,0 -104.563510634,50.437155844,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Louis Browne",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-browne.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-browne/",
+"Phone":"1-306-531-5151"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_1.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFA7</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFA7</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

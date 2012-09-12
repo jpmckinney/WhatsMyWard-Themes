@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_3">
+      <name>Ward 3</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-83.0359674766,42.2943858163,0 -83.0368885121,42.2943973386,0 -83.0387498024,42.2973234486,0 -83.0398684972,42.2981015678,0 -83.0413430214,42.2981681534,0 -83.0443069852,42.2970267037,0 -83.0456679555,42.299147624,0 -83.0450735084,42.2993574645,0 -83.0534981052,42.3128598976,0 -83.0532980701,42.3129292809,0 -83.0552995606,42.315661097,0 -83.0558022895,42.3155287839,0 -83.0564463852,42.3165426713,0 -83.0401699303,42.3206140404,0 -83.0396295587,42.3204947472,0 -83.0403775217,42.3216745466,0 -83.0400523667,42.3217225596,0 -83.0394691009,42.3208014591,0 -83.0384116197,42.321087344,0 -83.0381668827,42.3206990402,0 -83.0374793853,42.3211419693,0 -83.0330664424,42.3220887436,0 -83.0326589831,42.321306382,0 -83.0314039985,42.3215622897,0 -83.0276962071,42.3157977585,0 -83.0280362072,42.3150709344,0 -83.0170789068,42.2980214937,0 -83.0128507396,42.2906423399,0 -83.0180888384,42.2907385078,0 -83.0274461957,42.2900994145,0 -83.0308531323,42.2903242317,0 -83.0326124319,42.2908590277,0 -83.0341779299,42.2918651133,0 -83.0359674766,42.2943858163,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Fulvio Valentinis",
+"Photo":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/PublishingImages/Valentinis.jpg",
+"Email":"fvalentinis@city.windsor.on.ca",
+"Website":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/Councillor-Fulvio-Valentinis.aspx"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_3.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>B1DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>B1DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

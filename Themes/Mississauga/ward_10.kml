@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_10">
+      <name>10</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.8009033739,43.5792614876,0 -79.7871692491,43.591665474,0 -79.749309501,43.5643407649,0 -79.7442296318,43.5686760876,0 -79.7175461554,43.5491068886,0 -79.7351886309,43.5330928442,0 -79.7458970049,43.5390641626,0 -79.7558397185,43.5463100409,0 -79.7628071844,43.5522622001,0 -79.7706666673,43.5571437582,0 -79.7846436184,43.567366627,0 -79.7899356482,43.5716170521,0 -79.8009033739,43.5792614876,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Sue McFadden",
+"Photo":"http://www.mississauga.ca/file/COM/suemcfadden_107x90px.jpg",
+"Email":"sue.mcfadden@mississauga.ca",
+"Website":"http://www.mississauga.ca/portal/cityhall/ward10"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_10.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>D99FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>D99FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

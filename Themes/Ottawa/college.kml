@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="college">
+      <name>College</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.7397550489,45.3614412071,0 -75.7267833044,45.3394805134,0 -75.8092808419,45.3313304957,0 -75.8059311192,45.3248366941,0 -75.8056021278,45.3187485076,0 -75.8047959377,45.3168782208,0 -75.7933416052,45.3028333634,0 -75.7924458666,45.3010098523,0 -75.7924561028,45.2983857349,0 -75.7940305479,45.2960558367,0 -75.7986341803,45.2927507775,0 -75.8129993637,45.2869241528,0 -75.8121798385,45.285480754,0 -75.8234769575,45.2808730777,0 -75.8244828456,45.2827915965,0 -75.8357425292,45.2781421272,0 -75.8437000478,45.2916452303,0 -75.8445258668,45.2913795377,0 -75.8505936151,45.2982008597,0 -75.8512610621,45.2979872605,0 -75.85175819,45.2997062798,0 -75.8539132011,45.3011454668,0 -75.8540723239,45.3028096217,0 -75.8552227204,45.3039637372,0 -75.8727955777,45.2968162142,0 -75.8859098766,45.3203764272,0 -75.8368720259,45.3401813698,0 -75.8249583568,45.3426143851,0 -75.8164827698,45.3432196391,0 -75.8096354638,45.3450748395,0 -75.7979840676,45.3461380943,0 -75.7943725813,45.3471136849,0 -75.7590240669,45.3662262951,0 -75.7483513025,45.3761255563,0 -75.7397550489,45.3614412071,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Rick Chiarelli",
+"Photo":"http://ottawa.ca/cs/groups/content/@webottawa/documents/image/mdaw/mdu5/~edisp/wc019998_123477643.jpg",
+"Email":"Rick.Chiarelli@ottawa.ca",
+"Website":"http://ottawa.ca/en/city_hall/councilcommittees/mayor_council/councillors/r_chiarelli/index.html",
+"Phone":"1-613-580-2478",
+"Fax":"1-613-580-2518",
+"Address":"110 Laurier Avenue West\nOttawa ON  K1P 1J1"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>college.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>B9DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>B9DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

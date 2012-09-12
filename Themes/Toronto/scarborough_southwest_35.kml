@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="scarborough_southwest_35">
+      <name>Scarborough Southwest (35)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.2991633422,43.7163843269,0 -79.3026473495,43.7247345786,0 -79.2994163766,43.7252150663,0 -79.2301212905,43.7407016254,0 -79.242728735,43.732813519,0 -79.2459580283,43.7301521597,0 -79.2478128442,43.7278421263,0 -79.2673849587,43.6984563449,0 -79.2698627101,43.6958498567,0 -79.2721007641,43.6942136085,0 -79.2772399901,43.6917763381,0 -79.2875558856,43.6893014373,0 -79.2991633422,43.7163843269,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Michelle Berardinetti",
+"Email":"councillor_berardinetti@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/berardinetti1.htm",
+"Phone":"1-416-392-0213"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>scarborough_southwest_35.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>C99FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>C99FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_5_spring_park">
+      <name>Spring Park</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1345522136,46.245177734,0 -63.1378447657,46.2441742254,0 -63.1399291008,46.2474033995,0 -63.1477061615,46.2450174604,0 -63.1480705915,46.2455118211,0 -63.1524270164,46.2443175634,0 -63.1532490436,46.2447420166,0 -63.1537026084,46.2455592313,0 -63.1538396214,46.2467853362,0 -63.1538398998,46.2478073941,0 -63.1524752089,46.2504471493,0 -63.1527712639,46.2519717417,0 -63.152907727,46.2525383686,0 -63.1538625214,46.2530876968,0 -63.1545446111,46.2539684769,0 -63.1531001823,46.2559659617,0 -63.1517969386,46.2560603773,0 -63.1491990521,46.257506031,0 -63.1468218752,46.258111922,0 -63.1465438274,46.2584190776,0 -63.1456746657,46.2583743094,0 -63.1451116794,46.2588428721,0 -63.1447238146,46.2598105418,0 -63.1441798332,46.2601162302,0 -63.1345522136,46.245177734,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Sterling MacFadyen",
+"Photo":"http://www.city.charlottetown.pe.ca/images/StuMacFadyen2011.jpg",
+"Email":"smacfadyen@charlottetown.ca"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_5_spring_park.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>AE9FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>AE9FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

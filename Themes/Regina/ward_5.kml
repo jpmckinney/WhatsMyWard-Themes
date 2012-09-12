@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_5">
+      <name>Ward 5</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-104.52329752,50.433921197,0 -104.528169824,50.433907222,0 -104.534439126,50.435656884,0 -104.538168171,50.437144102,0 -104.539701483,50.438440094,0 -104.544421724,50.440330031,0 -104.549243877,50.440594956,0 -104.549210098,50.447096937,0 -104.572260537,50.447169423,0 -104.57197986,50.45979756,0 -104.526221457,50.467623661,0 -104.526192118,50.440580163,0 -104.523310782,50.440571306,0 -104.52329752,50.433921197,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"John Findura",
+"Photo":"http://regina.ca/opencms/export/sites/regina.ca/residents/council-committees/.media/pictures/councillor-findura.jpg",
+"Website":"http://regina.ca/residents/council-committees/meet-city-council/councillor-_findura/",
+"Phone":"1-306-536-4250"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_5.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DC9FDF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DC9FDF</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="eglinton_lawrence_16">
+      <name>Eglinton—Lawrence (16)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.4271557557,43.7082972856,0 -79.4337602464,43.7363680376,0 -79.4188513955,43.7455617115,0 -79.4150920128,43.7495369265,0 -79.4084447383,43.753819902,0 -79.4081017241,43.7521067856,0 -79.4081128301,43.7498043733,0 -79.4021980826,43.7251129247,0 -79.3983692379,43.7067434422,0 -79.4181069224,43.7025826938,0 -79.4227885592,43.7043592165,0 -79.4262922321,43.7048836927,0 -79.4271557557,43.7082972856,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Karen Stintz",
+"Email":"councillor_stintz@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/stintz1.htm"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>eglinton_lawrence_16.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFC79F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFC79F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

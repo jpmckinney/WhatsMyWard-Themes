@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_2">
+      <name>Ward 2</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-81.1660941441,42.9852545776,0 -81.1929789894,42.9857981193,0 -81.1996510478,43.0002156571,0 -81.12994094,43.0224947334,0 -81.1286111307,43.0199694095,0 -81.1287453536,43.0192312833,0 -81.1294453224,43.019020485,0 -81.1289899337,43.0180933591,0 -81.1271192429,43.0186323122,0 -81.1203507017,43.0055904906,0 -81.1175254909,43.0040957624,0 -81.1154752519,43.0037883085,0 -81.1145630108,43.0019981247,0 -81.1248147232,42.9988222636,0 -81.1217217942,42.9927780495,0 -81.1295191859,42.9904639156,0 -81.1290443515,42.9876648004,0 -81.1296945312,42.9872031768,0 -81.1307060342,42.9856045233,0 -81.1295632383,42.9859130769,0 -81.1305440782,42.9845167825,0 -81.1660941441,42.9852545776,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Bill Armstrong",
+"Photo":"http://www.london.ca/City_Council/images/10_Bill_Armstrong.jpg",
+"Email":"barmstro@london.ca",
+"Website":"http://www.london.ca/d.aspx?s=/City_Council/ccm_2councillors.htm"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_2.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>CBDF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>CBDF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="daniel_mcintyre">
+      <name>Daniel McIntyre</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-97.1863984079,49.910096558,0 -97.1520644194,49.8991530329,0 -97.1521374818,49.8981168231,0 -97.1512363905,49.8978907795,0 -97.1509316698,49.8982875611,0 -97.1460194574,49.8967132868,0 -97.1457068273,49.8971167803,0 -97.1398174733,49.895022629,0 -97.1508657759,49.8909333283,0 -97.1495754121,49.8888958937,0 -97.1541188256,49.8892422309,0 -97.1541599707,49.8897136908,0 -97.1605231895,49.8879915998,0 -97.1611682569,49.8788532211,0 -97.1616965245,49.8781976705,0 -97.1642724671,49.8785475726,0 -97.1699288274,49.8764653495,0 -97.1728136008,49.8761587931,0 -97.1761075143,49.8766359423,0 -97.1799810218,49.878867334,0 -97.182313759,49.8794732896,0 -97.1846745009,49.879304623,0 -97.1897401778,49.8781394113,0 -97.1943644835,49.8783624668,0 -97.1924734464,49.9012628714,0 -97.1915609773,49.9032770641,0 -97.1863984079,49.910096558,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Harvey Smith",
+"Photo":"http://winnipeg.ca/council/images/smith.png",
+"Email":"hsmith@winnipeg.ca",
+"Website":"http://winnipeg.ca/council/daniel_mcintyre.stm",
+"Phone":"1-204-986-5951",
+"Fax":"1-204-986-7000",
+"Address":"Council Building\n510 Main Street\nWinnipeg MB  R3B 1B9"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>daniel_mcintyre.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFB09F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFB09F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

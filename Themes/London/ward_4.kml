@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_4">
+      <name>Ward 4</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-81.2094157648,43.0082723532,0 -81.2048451541,42.9989842871,0 -81.1996510478,43.0002156571,0 -81.1929789894,42.9857981193,0 -81.2239786739,42.9863800629,0 -81.2304930718,42.9856055066,0 -81.2315733295,42.9888521417,0 -81.2459917316,43.0175605175,0 -81.2289641822,43.0225920353,0 -81.2260577363,43.0168161572,0 -81.2155254384,43.0198740644,0 -81.2094157648,43.0082723532,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Stephen Orser",
+"Photo":"http://www.london.ca/City_Council/images/10_Stephen_Orser.jpg",
+"Email":"sorser@london.ca",
+"Website":"http://www.london.ca/d.aspx?s=/City_Council/ccm_4councillors.htm"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_4.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>9FDFCE</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>9FDFCE</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

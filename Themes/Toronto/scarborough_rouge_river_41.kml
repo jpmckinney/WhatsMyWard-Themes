@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="scarborough_rouge_river_41">
+      <name>Scarborough—Rouge River (41)</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-79.2648556593,43.7795562199,0 -79.2797475097,43.7763384595,0 -79.2905567994,43.8006296786,0 -79.2929108386,43.8043334385,0 -79.3023027868,43.8248096896,0 -79.251192529,43.83660996,0 -79.2507201238,43.8305601161,0 -79.2428962654,43.8124235163,0 -79.24291439,43.8108933488,0 -79.2438447436,43.8082130598,0 -79.2439198667,43.8066200139,0 -79.2419186988,43.8019259036,0 -79.2407559033,43.7977737118,0 -79.2394871953,43.7948004233,0 -79.2387564516,43.7938806329,0 -79.2588417572,43.789630991,0 -79.2572848586,43.7874034298,0 -79.2550618521,43.7814539804,0 -79.2648556593,43.7795562199,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Chin Lee",
+"Email":"councillor_lee@toronto.ca",
+"Website":"http://www.toronto.ca/councillors/lee1.htm",
+"Phone":"1-416-392-1375"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>scarborough_rouge_river_41.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DFBF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DFBF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

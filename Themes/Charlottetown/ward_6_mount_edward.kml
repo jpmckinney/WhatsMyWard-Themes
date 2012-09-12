@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_6_mount_edward">
+      <name>Mount Edward</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-63.1206662585,46.2544997962,0 -63.1225484734,46.2488359811,0 -63.1345522136,46.245177734,0 -63.1470337344,46.2645507875,0 -63.1448560921,46.2651905672,0 -63.1457538504,46.2666775206,0 -63.143515306,46.2673821307,0 -63.1428236466,46.2668071947,0 -63.1375167211,46.2684493835,0 -63.1378819636,46.2692406751,0 -63.1326420797,46.2708672598,0 -63.1321217175,46.2702821625,0 -63.1282832442,46.2715650251,0 -63.1194166478,46.2583797137,0 -63.1206662585,46.2544997962,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"David MacDonald",
+"Photo":"http://www.city.charlottetown.pe.ca/images/DavidMacDonald2011.jpg",
+"Email":"dmacdonald@charlottetown.ca"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_6_mount_edward.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>A3DF9F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>A3DF9F</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

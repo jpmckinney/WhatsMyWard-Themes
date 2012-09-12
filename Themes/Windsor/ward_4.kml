@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="ward_4">
+      <name>Ward 4</name>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-82.9997140929,42.3103893396,0 -82.9865948173,42.2901470581,0 -83.0128507396,42.2906423399,0 -83.0170789068,42.2980214937,0 -83.0280362072,42.3150709344,0 -83.0276785304,42.3157598544,0 -83.0301394231,42.3196327973,0 -83.0314039985,42.3215622897,0 -83.0326589831,42.321306382,0 -83.0331171532,42.3221754493,0 -83.0178708374,42.3256811663,0 -83.0179793437,42.325849232,0 -83.0068505375,42.3275217651,0 -83.0061449364,42.3264090843,0 -83.0094737515,42.3261399503,0 -83.0093509902,42.3253930227,0 -82.9997140929,42.3103893396,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <description><![CDATA[
+{
+"Councillor":"Alan Halberstadt",
+"Photo":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/PublishingImages/Halberstadt.jpg",
+"Email":"ahalberstadt@city.windsor.on.ca",
+"Website":"http://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/Councillor-Alan-Halberstadt.aspx"
+}
+]]></description>
+      <styleUrl>#Style</styleUrl>
+    </Placemark>
+    <name>ward_4.kml</name>
+    <Style id="Style">
+      <LineStyle>
+        <color>DF9FC3</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>DF9FC3</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>
